@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="blink">Blink</string>
+    <string name="rotate">Rotate</string>
+    <string name="fade">Fade</string>
+    <string name="move">Move</string>
+    <string name="slide">Slide</string>
+    <string name="zoom">Zoom</string>
+    <string name="stop_animation">Stop Animation</string>
+    <string name="anim_image">Animation Target Image</string>
+</resources>
